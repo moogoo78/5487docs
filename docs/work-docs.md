@@ -17,7 +17,7 @@
 ### 重要 💡
 
 - 【北七教案流程與範本】[教案與流程表範本 - Google 雲端硬碟](https://drive.google.com/drive/folders/128gdWWSFPLuwdO7nLbnuuzsRlyOVuRRv) （內含：最新教案及流程空白檔、總團示範教案及說明、流程及教案的檔案命名說明）
-- 【歷年北七的教案流程】[教案/流程待確認版 - Google 雲端硬碟](https://drive.google.com/drive/u/0/folders/1UKdtVuHIInYbPk7r374uIxAdgvimR8xQ) (教案待團會長確認的資料夾)
+- [【歷年北七的教案流程】+【教案/流程待確認版…今年的流程教案放入這個資料夾】](https://drive.google.com/drive/folders/0B0yvYq3UGGl8aTJ1alZSakZCbm8?resourcekey=0-F4zeBOnAn74fEsyXh2Y5Ug&usp=sharing)
 
 ### 參考
 

@@ -7,7 +7,7 @@
  - `小羊咩` - 育
  - `小雪狐` - 蜂二
 
-![](../images/family/F944C6FE-444E-4043-A3E9-938E4E09A248.jpeg)
+![](images/family/F944C6FE-444E-4043-A3E9-938E4E09A248.jpeg)
 
 ```
 大家晚安!
@@ -47,7 +47,7 @@
  - `微風` - 育
  - `大白鯊` - 鹿二
 
-![](../images/family/DFE09DB0-7A3B-47D4-8B4E-B90F0895EAA9.jpeg)
+![](images/family/DFE09DB0-7A3B-47D4-8B4E-B90F0895EAA9.jpeg)
 
 ```
 很開心能夠加入北七大家庭，得知我們家可以加入時，我們超開心的！覺得我們全家三人共同為一件事情努力，並得到成果的感覺真好。
@@ -71,7 +71,7 @@
  - `天狼星` - 育
  - `天王星` - 蟻三
 
-![](../images/family/BFFB8690-0409-4499-B94B-EC43662A166F.jpeg)
+![](images/family/BFFB8690-0409-4499-B94B-EC43662A166F.jpeg)
 
 ```
 Hi 大家好～～
@@ -120,7 +120,7 @@ Hi 大家好～～
  - `阿勃勒` - 育
  - `龍捲風` - 鹿二
 
-![](../images/family/57A77509-CCE0-43CE-89BF-1C7BF6C2C3B8.jpeg)
+![](images/family/57A77509-CCE0-43CE-89BF-1C7BF6C2C3B8.jpeg)
 
 ```
 大家好，我們家是今年新進家庭
@@ -186,7 +186,7 @@ Hi 大家好～～
  - `芒果` - 蜂一
  - `劍齒虎` - 蟻一
 
-![](../images/family/725C350C-3E29-4E30-BE1F-590A5E421BB9.jpeg)
+![](images/family/725C350C-3E29-4E30-BE1F-590A5E421BB9.jpeg)
 
 ```
 大家好，我們是兩大三小的新團員，三個孩子分別是小六、小二和中班，很開心加入北七蟻團、蜂團和鹿團，和大家一起在自然中學習成長。
@@ -214,7 +214,7 @@ Hi 大家好～～
  - `台灣黑熊` - 育
  - `小爪水獺` - 蟻一
 
-![](../images/family/33564353-9D32-411D-9EDC-E0632095AA9C.jpeg)
+![](images/family/33564353-9D32-411D-9EDC-E0632095AA9C.jpeg)
 
 ```
 大家好！
@@ -245,7 +245,7 @@ Hi 大家好～～
  - `儒艮` - 育
  - `小海牛` - 蜂一
 
-![](../images/family/8A78BAAC-1EF4-444B-99EF-F97AC362F6A8.jpeg)
+![](images/family/8A78BAAC-1EF4-444B-99EF-F97AC362F6A8.jpeg)
 
 ```
 大家好～我們是儒艮和小海牛
@@ -270,7 +270,7 @@ Hi 大家好～～
  - `WINTER` - 鹿三
  - `白蘿蔔` - 蜂一
 
-![](../images/family/C1B7BCF3-8E63-470C-A95C-484D7F6EAA72.jpeg)
+![](images/family/C1B7BCF3-8E63-470C-A95C-484D7F6EAA72.jpeg)
 
 ```
 大家好，我們是二大二小的新家庭
@@ -317,7 +317,7 @@ Hi 大家好～～
  - `山貓` - 鹿一
  - `老鷹` - 蟻三
 
-![](../images/family/3792064D-A824-4F2A-80C6-09CD80D5CF74.jpeg)
+![](images/family/3792064D-A824-4F2A-80C6-09CD80D5CF74.jpeg)
 
 ```
 嗨大家好
@@ -367,7 +367,7 @@ Hi 大家好～～
  - `含羞草` - 育
  - `蒲公英` - 蜂一
 
-![](../images/family/0CA8BE1E-0705-4EA4-974B-D1C4F17A995C.jpeg)
+![](images/family/0CA8BE1E-0705-4EA4-974B-D1C4F17A995C.jpeg)
 
 ```
 大家好，在遵循協會初衷更新了自然名，請參考新的自我介紹唷。
@@ -399,7 +399,7 @@ Hi 大家好～～
  - `五色鳥` - 育
  - `渡渡鳥` - 蟻一
 
-![](../images/family/56B6AAA1-9D24-417A-AAC6-CB2D7790ACE6.jpeg)
+![](images/family/56B6AAA1-9D24-417A-AAC6-CB2D7790ACE6.jpeg)
 
 ```
 Hi 大家好 (大家好)(大家好)(大家好)
@@ -440,7 +440,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `蛋黃` - 蜂二
  - `小鸚哥` - 蟻三
 
-![](../images/family/5261E9A9-A518-4321-9DC8-E2E83086B8BB.jpeg)
+![](images/family/5261E9A9-A518-4321-9DC8-E2E83086B8BB.jpeg)
 
 ```
 嗨大家好～
@@ -487,7 +487,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `向日葵` - 鹿二
  - `雲豹` - 蜂三
 
-![](../images/family/144544DD-1787-4EE1-9557-ED673CEE7180.jpeg)
+![](images/family/144544DD-1787-4EE1-9557-ED673CEE7180.jpeg)
 
 ```
 大家好，
@@ -521,7 +521,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `海浪` - 育
  - `雷龍` - 蟻二
 
-![](../images/family/9424BA09-117F-4850-A580-E85C1D6ACBC2.jpeg)
+![](images/family/9424BA09-117F-4850-A580-E85C1D6ACBC2.jpeg)
 
 ```
 大家好，有點晚上來打招呼
@@ -582,7 +582,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `歐若菈` - 蟻三
  - `星龜` - 蟻二
 
-![](../images/family/170016AD-4973-4859-AE31-267F42B884FA.jpeg)
+![](images/family/170016AD-4973-4859-AE31-267F42B884FA.jpeg)
 
 ```
 嗨~大家
@@ -658,7 +658,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `豐年蝦` - 育
  - `藍閃蝶` - 蟻二
 
-![](../images/family/EF596F8E-7D47-4198-8503-562BE773EED0.jpeg)
+![](images/family/EF596F8E-7D47-4198-8503-562BE773EED0.jpeg)
 
 ```
 大家好～！我們是今年加入蟻團的麥勾家，爸爸-野貓軍團、媽媽-開心果、6歲小妹-藍閃蝶，一家三口，家住三峽，歡迎鄰居來認親。
@@ -693,7 +693,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `朽木` - 育
  - `鵝卵石` - 蟻三
 
-![](../images/family/681BFBEE-4C9D-4E48-9E18-C178E9903E03.jpeg)
+![](images/family/681BFBEE-4C9D-4E48-9E18-C178E9903E03.jpeg)
 
 ```text
 嗨大家好(emoji)
@@ -724,7 +724,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `紅豆` - 鹿一
  - `綠豆` - 鹿一
 
-![img](../images/family/DEADE605-AF35-4A09-BD6D-68C8FB6EE870.jpeg)
+![img](images/family/DEADE605-AF35-4A09-BD6D-68C8FB6EE870.jpeg)
 
 ```
 我們是一家四口
@@ -803,7 +803,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `山羊` - 鹿一
  - `獵豹` - 蜂三
 
-![](../images/family/94C768CA-C28A-4C52-B22A-A0CF78BE51E3.jpeg)
+![](images/family/94C768CA-C28A-4C52-B22A-A0CF78BE51E3.jpeg)
 
 ```
 大家好！我修改一下名字
@@ -840,7 +840,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `紅色精靈` - 鹿一
  - `土撥鼠` - 蟻三
 
-![](../images/family/034354BA-0B31-4CCB-A24D-C8696F3E0593.jpeg)
+![](images/family/034354BA-0B31-4CCB-A24D-C8696F3E0593.jpeg)
 
 ```
 嗨大家好

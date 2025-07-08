@@ -1,7 +1,6 @@
 site_name: 5487 Documentations
 nav:
-  - Home:
-    - About: index.md
+  - Home: index.md
   - 北七人:
     - 北七10年新家庭 - 名單: people-10y-new-family-list.md
     - 北七10年新家庭 - 自我介紹: people-10y-new-family-intro.md
