@@ -1,0 +1,72 @@
+site_name: 5487 Documentations
+nav:
+  - Home:
+    - About: index.md
+  - 北七人:
+    - 北七10年新家庭 - 名單: people-10y-new-family-list.md
+    - 北七10年新家庭 - 自我介紹: people-10y-new-family-intro.md
+  - 北七事:
+    - 10y-schedule.md
+    - 北七工作相關: work-docs.md
+
+theme:
+  name: 'material'
+  #custom_dir: overrides
+  favicon: images/favicon.ico
+  features:
+    - content.code.copy
+    #- navigation.tabs
+    #- navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+  #palette:
+  #  - scheme: slate
+  #    primary: light blue
+  #    accent: yellow
+  font:
+    text: Roboto
+    code: Roboto Mono
+  #icon:
+  #  tag:
+  #    html: fontawesome/brands/html5
+  #    js: fontawesome/brands/js
+  #    css:  fontawesome/brands/css3
+
+plugins:
+  - search
+#  - tags:
+#      tags_file: tags.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-xx
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.keys
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+extra_css:
+  - stylesheets/extra.css
