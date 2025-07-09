@@ -805,7 +805,7 @@ Hi 大家好 (大家好)(大家好)(大家好)
  - `山羊` - 鹿一
  - `獵豹` - 蜂三
 
-![](images/family/94C768CA-C28A-4C52-B22A-A0CF78BE51E3.jpeg)
+![](images/family/IMG_2009.jpeg)
 
 ```
 大家好！我修改一下名字
